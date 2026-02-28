@@ -1,1 +1,15 @@
+## 📂 Dashboard File
 
+The main Power BI dashboard file is available in:
+
+dashboard/Production_Monitoring_Dashboard.pbix
+
+This file contains:
+- Interactive KPI cards
+- DAX-based performance measures
+- Machine-wise analysis
+- Production trend comparison (Planned vs Actual)
+- Rejection and efficiency tracking
+- Performance status indicator
+
+Open this file in Power BI Desktop to explore full interactivity.
