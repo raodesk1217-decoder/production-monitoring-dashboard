@@ -1,1 +1,14 @@
+## 📊 Dataset Information
 
+The cleaned dataset used for this dashboard is available in:
+
+data/cleaned_production_data.xlsx
+
+### Data Preparation Steps:
+- Removed duplicate entries
+- Cleaned missing values
+- Standardized date formats
+- Created calculated fields in Excel
+- Structured data for Power BI modeling
+
+This dataset was used as the primary source for building the dashboard.
