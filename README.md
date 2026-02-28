@@ -85,6 +85,7 @@ Efficiency % = DIVIDE([Good Qty], [Actual Qty])
 Rejection % = DIVIDE([Rejection Qty], [Actual Qty])
 
 Variance % = DIVIDE([Actual Qty] - [Planned Qty], [Planned Qty])
+```
 
 These measures dynamically update based on selected filters such as Machine, Date, and Shift.
 
